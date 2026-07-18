@@ -19,3 +19,11 @@ Arguments:
 
 This project is distributed under the MIT license. See the [LICENSE](LICENSE)
 file.
+
+## Related resources
+
+- https://github.com/synacktiv/samsung-q60t-exploit
+- https://github.com/bugficks/msddecrypt
+- https://github.com/hsand/vdfs4-linux
+- https://github.com/HinTak/vdfs-tools
+- https://github.com/HinTak/vdfs-driver
