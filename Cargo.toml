@@ -1,0 +1,17 @@
+[package]
+name = "vdfs-unpack"
+version = "0.1.0"
+edition = "2024"
+description = "VDFS4 (Samsung) filesystem image unpacker"
+license = "MIT"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+memmap2 = "0.9"
+bytemuck = { version = "1", features = ["derive"] }
+crc32fast = "1"
+flate2 = "1"
+zstd = "0.13"
+lz4_flex = "0.14"
+anyhow = "1"
+indicatif = "0.18"
